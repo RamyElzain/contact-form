@@ -2,9 +2,11 @@
     background-color: lightblue;
     width: 1440px;
      height: 500px;
-     margin: auto;    
+     margin: auto;
+     text-align: center;    
 }
 .forms{
+    display: flex;
 }  
 #fname{
 width: 300px;
@@ -19,7 +21,7 @@ width: 611px;
 height: 100px;
 }
 #help{
-width: 600px;
+width: 800px;
 height: 300px;
 }
 
